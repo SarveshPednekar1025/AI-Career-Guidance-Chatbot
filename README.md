@@ -3,6 +3,7 @@
 ## Project Overview
 
 AI Career Guidance Chatbot is a chatbot developed using Botpress to help students identify suitable career paths based on their engineering branch, interests, and future goals.
+Botpress Cloud Link : https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/06/13/17/20260613174711-YP47OUAO.json
 
 ## SDG
 
